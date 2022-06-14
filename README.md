@@ -1,4 +1,4 @@
-[![CI with GitHub Actions using Ant and JUnit | © 2022 by giao.lang](https://github.com/cyrus79-unlimit/math-util-swt301/actions/workflows/ci-junit.yml/badge.svg)](https://github.com/cyrus79-unlimit/math-util-swt301/actions/workflows/ci-junit.yml)
+[![CI with GitHub Actions using Ant and JUnit | © 2022 by Lê_Huy](https://github.com/cyrus79-unlimit/math-util-swt301/actions/workflows/ci-junit.yml/badge.svg)](https://github.com/cyrus79-unlimit/math-util-swt301/actions/workflows/ci-junit.yml)
 
 #Welcome to Math-Util Repository
 ### You will find in this repo the following stuff:
