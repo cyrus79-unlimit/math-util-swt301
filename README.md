@@ -4,6 +4,10 @@
 ### You will find in this repo the following stuff:
 * The Math-Util library that offers multiple math functions (a Java-based source code)
 * Unit Testing source code with JUnit framework
+* GitHub Actions to demonstrate the Continuous Integration (CI) technique
+* Regression Test
 * ...
+
+![DDT & TTD with JUnit](https://github.com/cyrus79-unlimit/math-util-swt301/blob/main/images/DDT%20with%20JUnit.png)
 
 #### © 2022 Lê_Huy
